@@ -1,5 +1,3 @@
-# Mano
-Simple chatbot to manage AWS Resources.
-# sabota
+# it was Mano, but now is SABOTA
 
-His name is Sabota because Im a fã from brazilian rapper Sabotage
+Simple chatbot to manage AWS Resources.
