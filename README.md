@@ -1,3 +1,3 @@
-# it was Mano, but now is SABOTA
+# Mano
 
 Simple chatbot to manage AWS Resources.
